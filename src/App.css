@@ -13,7 +13,7 @@ img {
   flex-wrap: wrap;
   gap: 20px;
   list-style: none;
-  width: 1200px;
+  margin: auto;
 }
 
 .character-card {
